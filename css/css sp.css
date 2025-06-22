@@ -1,0 +1,108 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&display=swap');
+/* CSS Document */
+.montserrat-uniquifier {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.nen100 {
+  width: 100%;
+}
+.logo {
+  height: 60px;
+  text-align: left
+}
+.canhlogo {
+  padding-left: 50px;
+	padding-top: 20px
+}
+.header {
+  background-color: #FFF8D8;
+  height: 90px;
+  width: 100%
+}
+.menu {
+  padding-top: 38px;
+  padding-right: 50px
+}
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex
+}
+.menu ul li a {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #1F1C1C
+}
+.menu ul li a:hover {
+  background-color: #7FBAE6;
+  border-radius: 20px;
+  color: white
+}
+.btn-fill-primary:hover {
+  background-color: aqua
+}
+.nen {
+  position: relative
+}
+.vanban {
+    position: absolute;
+    left: 4px;
+    top: 650px;
+    width: 714px;
+    height: 309px;
+    padding: 50px;
+    width: 50%;
+}
+.chu-tieu-de-lon {
+  font-size: 60px;
+  color: #7FBAE6;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  left: 20px
+}
+.chu-tieu-de-nho {
+  font-size: 20px;
+  color: #393838;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  left: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #7FBAE6
+}
+.chu-body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 15px;
+  color: #393838;
+  padding-top: 0px;
+  padding-bottom: 10px
+}
+.chu-tieu-de-lien-he {
+  font-size: 20px;
+  color: #393838;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  left: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #FFFFFF;
+}
+.vien-sp{
+	display: inline-block;         
+      border: 3px solid rgba(127,186,230,1.00);   
+      box-sizing: border-box;padding: 5px;border-radius: 5px
+}

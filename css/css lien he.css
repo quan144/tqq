@@ -1,0 +1,229 @@
+/* CSS Document */
+.montserrat-uniquifier {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.nen100 {
+  width: 100%;
+}
+.logo {
+  height: 60px;
+  text-align: left
+}
+.canhlogo {
+  padding-left: 50px;
+  padding-top: 20px
+}
+.header {
+  background-color: #FFF8D8;
+  height: 90px;
+  width: 100%
+}
+.menu {
+  padding-top: 38px;
+  padding-right: 50px
+}
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex
+}
+.menu ul li a {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #1F1C1C
+}
+.menu ul li a:hover {
+  background-color: #7FBAE6;
+  border-radius: 20px;
+  color: white
+}
+.btn-fill-primary:hover {
+  background-color: aqua
+}
+.nen {
+  position: relative
+}
+.vanban {
+  position: absolute;
+  left: 11px;
+  top: 682px;
+  width: 714px;
+  height: 611px;
+  padding: 50px;
+  width: 50%;
+}
+.chu-tieu-de-lon {
+  font-size: 60px;
+  color: #7FBAE6;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  left: 20px
+}
+.chu-tieu-de-nho {
+  font-size: 20px;
+  color: #393838;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  left: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #7FBAE6
+}
+.chu-body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 15px;
+  color: #393838;
+  padding-top: 0px;
+  padding-bottom: 10px
+}
+.chu-tieu-de-lien-he {
+  font-size: 20px;
+  color: #393838;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  left: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #FFFFFF;
+}
+.vien-sp {
+  display: inline-block;
+  border: 3px solid rgba(127, 186, 230, 1.00);
+  box-sizing: border-box;
+  padding: 5px;
+  border-radius: 5px
+}
+.chu-lien-he-canh-giua {
+  font-size: 60px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: #7FBAE6;
+  text-align: center;
+  left: 20px;
+  position: relative;
+ margin-top: 70px
+}
+.chu-canh-2 {
+    padding-left: 50px;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  color: #7FBAE6 font-weight: 800;
+    font-style: normal;
+    left: 27px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    position: absolute;
+    top: 179px;
+    color: white;
+    height: 471px;
+}
+.img-1001 {
+  width: 100%;
+  height: 500px;
+  background-color: #7FBAE6;
+  position: absolute;
+  top: 172px;
+  left: 4px;
+}
+.chu-canh-3 {
+  padding-left: 50px;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  color: #7FBAE6;
+  font-weight: 800;
+  font-style: normal;
+  left: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  position: absolute;
+  color: white;
+}
+.nam-ngang {
+  display: flex;
+  align-items: center
+}
+.box1 {
+  margin: 0px
+}
+.box2 {
+  padding-left: 30px;
+  text-decoration: none
+}
+.bo-gach-chan {
+  text-decoration: none;
+  color: #FFFFFF
+}
+.chu-o-vuong {
+  width: 100%;
+  padding-left: 60%;
+  position: absolute;
+  padding-top: 38px
+}
+.chu-canh-4 {
+  font-size: 20px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.tren {
+  margin-top: -50px;
+}
+.trenn {
+  margin-top: -50px;
+}
+.trennn {
+  margin-top: 10px;
+}
+.trennnn {
+  padding-left: 60%;
+  font-size: 20px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  position: absolute;
+  margin-top: -55px;
+}
+.len {
+  position: absolute;
+  left: 15px;
+  top: 60px;
+}
